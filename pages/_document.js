@@ -4,7 +4,7 @@ export default function Document() {
   return (
     <Html>
       <Head>
-        <title>Crowd Space</title>
+        <title>Fund Vortex</title>
       </Head>
       <body>
         <Main />
