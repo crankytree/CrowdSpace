@@ -9,7 +9,7 @@ const {createServer} = require("http");
 
 
 app.prepare().then(() => {
-  createServer(handler).listen(3000 , (err) => {
+  createServer(handler).listen(3001 , (err) => {
     if(err) throw err;
     console.log("Listening on port 3000");
     

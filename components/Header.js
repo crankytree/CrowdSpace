@@ -7,7 +7,7 @@ const Header = () => {
     <Menu style={{marginTop: "10px"}}>
       <Link to="/">
       <a className='item'>
-        CrowdSpace
+        Fund Vortex
       </a>
       </Link>
       
